@@ -1,5 +1,3 @@
-# How-Google-Maps-find-shortest-route-between-two-locations-
-
 
 #include <list>
 #include <algorithm>
